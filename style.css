@@ -13,3 +13,72 @@ body {
     margin-top: 40px;
     padding: 1%;
 }
+
+.testimonial-section {
+    background-color: #d44a79;
+    padding: 60px 20px;
+}
+.testimonial-card {
+    text-align: center;
+    padding: 20px;
+}
+.testimonial-card img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+.testimonial-text {
+    font-style: italic;
+}
+.testimonial-name {
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 10px;
+}
+.testimonial-role {
+    font-size: 14px;
+    color: #fddc9b;
+}
+/* email section */
+.contact-form .form-control {
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: white;
+    padding: 12px;
+}
+.contact-form .form-control::placeholder {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.contact-form .form-control:focus {
+    background-color: rgba(255, 255, 255, 0.15);
+    border-color: rgba(255, 255, 255, 0.3);
+    color: white;
+    box-shadow: none;
+}
+
+.contact-form textarea.form-control {
+    resize: none;
+}
+
+.contact-form .btn-primary {
+    margin-top: 20px;
+    padding: 15px 50px;
+}
+/* footer */
+.footer {
+    background-color: #35477d;
+    padding: 40px 0;
+    text-align: center;
+}
+.footer a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+}
+.footer a:hover {
+    text-decoration: ;
+}
