@@ -69,6 +69,7 @@ body {
 /* footer */
 .footer {
     background-color: #35477d;
+    margin: auto;
     padding: 40px 0;
     text-align: center;
 }
@@ -80,5 +81,5 @@ body {
     font-weight: 500;
 }
 .footer a:hover {
-    text-decoration: ;
+    color: gold;
 }
