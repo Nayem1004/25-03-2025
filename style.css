@@ -1,0 +1,14 @@
+body {
+    background-color: #f8d492;
+    text-align: center;
+}
+.portfolio-container {
+    padding: 50px 0;
+}
+.laptop {
+    width: 45%;
+    margin: 20px;
+}
+.load-more {
+    margin-top: 20px;
+}
