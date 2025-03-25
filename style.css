@@ -1,3 +1,4 @@
+/* portfolio section */
 body {
     background-color: #f8d492;
     text-align: center;
@@ -13,7 +14,7 @@ body {
     margin-top: 40px;
     padding: 1%;
 }
-
+/* about us or testimonial section */
 .testimonial-section {
     background-color: #d44a79;
     padding: 60px 20px;
